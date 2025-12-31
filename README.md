@@ -1,4 +1,4 @@
-# Python 课程设计报告：Pygame 学习主题塔防游戏开发
+# Python 课程设计报告：Pygame 游戏开发（类植物大战僵尸）
 
 **课程名称：**Python 程序设计
 
